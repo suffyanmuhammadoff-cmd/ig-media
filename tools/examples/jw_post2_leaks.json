@@ -1,0 +1,30 @@
+{
+ "brand": "jarvis",
+ "kind": "carousel",
+ "slides": [
+  {
+   "eyebrow": "Small business",
+   "title": "3 leaks quietly draining your revenue"
+  },
+  {
+   "num": "01",
+   "title": "After-hours calls",
+   "body": "Nights and weekends go to voicemail. Most people don't leave one. They just call someone else."
+  },
+  {
+   "num": "02",
+   "title": "No-shows",
+   "body": "An empty slot you already paid staff for. Automatic reminders and instant rebooking fill it back up."
+  },
+  {
+   "num": "03",
+   "title": "One-and-done follow-up",
+   "body": "Most leads need several touches before they reply. Most businesses stop after one or two."
+  },
+  {
+   "title": "Jarvis plugs all three. Automatically.",
+   "body": "AI text replies, reminders, and 30-day follow-up, built into the tools you already use.",
+   "cta": "DM \"BUILD\""
+  }
+ ]
+}

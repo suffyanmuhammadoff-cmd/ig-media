@@ -1,0 +1,31 @@
+{
+ "brand": "azure",
+ "kind": "carousel",
+ "slides": [
+  {
+   "eyebrow": "We buy Florida houses",
+   "title": "If one of these is you, we can help"
+  },
+  {
+   "title": "Inherited a house you don't want",
+   "body": "No cleanout needed. Sell it with everything inside."
+  },
+  {
+   "title": "Tired landlord",
+   "body": "Bad tenants, damage, vacancies. We buy rentals as-is, tenants in place or not."
+  },
+  {
+   "title": "Behind on payments",
+   "body": "Pre-foreclosure? Talk to us early, while you still have the most options."
+  },
+  {
+   "title": "Major repairs, divorce, or relocating",
+   "body": "When you need a clean, fast, certain sale."
+  },
+  {
+   "title": "No repairs. No showings. No agent fees.",
+   "body": "Close in as few as 21 days, on your timeline.",
+   "cta": "DM \"OFFER\""
+  }
+ ]
+}

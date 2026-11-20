@@ -1,0 +1,95 @@
+{
+ "brand": "azure",
+ "set": "living_boxes",
+ "time": "10:12 PM",
+ "seed": 41,
+ "hook": "They agreed on everything. Except the house.",
+ "human": {
+  "name": "Karen",
+  "voice": "af_nicole",
+  "shirt": [
+   150,
+   110,
+   190
+  ],
+  "hair": [
+   110,
+   70,
+   40
+  ],
+  "skin": [
+   230,
+   190,
+   160
+  ],
+  "style": "long"
+ },
+ "cta": "Need a clean sale? DM \"OFFER\"",
+ "cta_sub": "Cash, as-is, on your timeline. Florida only.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "We agreed on everything in the divorce. Except the house.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Listing it means months of showings, repairs, and talking to him about every offer.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "I just want this chapter to be over.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Karen, I'm Casa. I'm sorry you're going through this. Can I show you a simpler way?"
+  },
+  {
+   "who": "human",
+   "say": "Please. Anything simpler.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "We make one written cash offer. Both of you can see exactly how we got to the number. No showings, no repairs, no back and forth with buyers."
+  },
+  {
+   "who": "human",
+   "say": "That sounds too easy. What's the catch?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "No catch. The offer is no obligation, and everything closes through a local title company, so the money is handled by a neutral third party."
+  },
+  {
+   "who": "human",
+   "say": "How fast could it be done?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "In as few as twenty one days. Or we can line it up with your timeline, if one of you needs more time to move."
+  },
+  {
+   "who": "human",
+   "say": "So it's just one decision. Not fifty.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "Exactly. One offer, one closing date, and you both move on."
+  },
+  {
+   "who": "human",
+   "say": "Okay. Let's get the offer.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If you're going through a divorce and need to sell a Florida house cleanly, DM the word OFFER, and we'll send you a no obligation cash offer."
+  }
+ ]
+}

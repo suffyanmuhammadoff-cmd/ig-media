@@ -1,0 +1,33 @@
+{
+ "brand": "jarvis",
+ "kind": "carousel",
+ "slides": [
+  {
+   "eyebrow": "Jarvis Works",
+   "title": "What we build, and what it costs"
+  },
+  {
+   "eyebrow": "Website",
+   "num": "$500",
+   "title": "setup + $79/mo",
+   "body": "A fast, modern site with lead forms wired straight into your CRM."
+  },
+  {
+   "eyebrow": "AI SMS Bot",
+   "num": "$1,500",
+   "title": "setup + $397/mo",
+   "body": "Replies to every lead in under a minute, qualifies them, and books appointments."
+  },
+  {
+   "eyebrow": "Full Jarvis System",
+   "num": "$3,000",
+   "title": "setup + $797/mo",
+   "body": "SMS bot, a personal AI assistant, custom automations, and a website included."
+  },
+  {
+   "title": "Book a free 20-minute strategy call",
+   "body": "See exactly what you'd automate first. Link in bio, or DM BUILD.",
+   "cta": "DM \"BUILD\""
+  }
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "brand": "jarvis",
+ "kind": "story",
+ "hero": "hero_jw.png",
+ "slides": [
+  {
+   "eyebrow": "New reel",
+   "title": "Tony lost 2 jobs before dinner. Then Jarvis showed up.",
+   "body": "Watch it on our page.",
+   "cta": "DM \"BUILD\""
+  }
+ ]
+}

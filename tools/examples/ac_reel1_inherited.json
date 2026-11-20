@@ -1,0 +1,95 @@
+{
+ "brand": "azure",
+ "set": "living_boxes",
+ "time": "1:20 AM",
+ "seed": 21,
+ "hook": "He inherited a house. Then the bills started.",
+ "human": {
+  "name": "James",
+  "voice": "am_eric",
+  "shirt": [
+   110,
+   90,
+   160
+  ],
+  "hair": [
+   70,
+   50,
+   35
+  ],
+  "skin": [
+   230,
+   190,
+   160
+  ],
+  "style": "short"
+ },
+ "cta": "Inherited a house? DM \"OFFER\"",
+ "cta_sub": "No cleanout. No repairs. Anywhere in Florida.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "Mom left me her house in Tampa. I live a thousand miles away.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Taxes, insurance, the lawn guy, the power bill. I'm paying for a house nobody lives in.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "And it's full of forty years of her stuff. I can't even look at it.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "James, I'm Casa. I'm really sorry about your mom. Can I make this a little easier?"
+  },
+  {
+   "who": "human",
+   "say": "Honestly? Please.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Every month that house sits empty, it costs you money. So let's stop that. We buy houses exactly as they are. Furniture, boxes, all of it. You don't clean anything out."
+  },
+  {
+   "who": "human",
+   "say": "That sounds too good to be true. What's the catch?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "Fair question. A lot of people ask it. We show you exactly how we got to our number, and the offer is no obligation. If it doesn't work for you, you walk away."
+  },
+  {
+   "who": "human",
+   "say": "Do I have to fly down for showings?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "No showings. We see it once. You get a written cash offer. And we close through a local title company, in as few as twenty one days, or on your timeline."
+  },
+  {
+   "who": "human",
+   "say": "So I could be done with this before the holidays.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "That's the idea. One less thing to carry."
+  },
+  {
+   "who": "human",
+   "say": "Okay Casa. Let's talk.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If you inherited a house in Florida you don't want to deal with, DM the word OFFER, and we'll send you a no obligation cash offer."
+  }
+ ]
+}

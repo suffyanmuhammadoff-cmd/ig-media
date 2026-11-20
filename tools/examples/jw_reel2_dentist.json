@@ -1,0 +1,95 @@
+{
+ "brand": "jarvis",
+ "set": "clinic",
+ "time": "7:15 AM",
+ "seed": 12,
+ "hook": "This mistake costs dentists 4 chairs a week",
+ "human": {
+  "name": "Dr. Priya",
+  "voice": "af_nicole",
+  "shirt": [
+   90,
+   160,
+   200
+  ],
+  "hair": [
+   30,
+   20,
+   20
+  ],
+  "skin": [
+   200,
+   150,
+   120
+  ],
+  "style": "long"
+ },
+ "cta": "Get your own Jarvis. DM \"BUILD\"",
+ "cta_sub": "After-hours replies, reminders and rebooking",
+ "beats": [
+  {
+   "who": "human",
+   "say": "Four no shows yesterday. Four empty chairs I still paid my team for.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "And the phone rang all weekend while we were closed. Nobody picked up.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Those patients just booked with whoever answered first.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Good morning, Doctor. That's two leaks in the same bucket. Let me plug both."
+  },
+  {
+   "who": "human",
+   "say": "I'm sorry, who's talking?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. First, after hours. Every call you miss gets a text from me within a minute. Research shows people who get a reply in the first five minutes are far more likely to book."
+  },
+  {
+   "who": "human",
+   "say": "So the weekend calls?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Six new patients booked. One had a cracked tooth, so I put him in your emergency slot at eight fifteen."
+  },
+  {
+   "who": "human",
+   "say": "Okay. And the no shows?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Every patient gets a reminder two days before and again that morning. If they can't come, I rebook them on the spot, and fill the gap from your waitlist."
+  },
+  {
+   "who": "human",
+   "say": "So the chair doesn't sit empty.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "Exactly. And your front desk never touches any of it."
+  },
+  {
+   "who": "human",
+   "say": "How fast could we start?",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If your office misses calls after hours, or loses money to no shows, DM the word BUILD, and Jarvis Works will build me for your practice."
+  }
+ ]
+}

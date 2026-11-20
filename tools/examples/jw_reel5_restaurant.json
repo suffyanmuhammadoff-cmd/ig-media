@@ -1,0 +1,94 @@
+{
+ "brand": "jarvis",
+ "set": "home_office",
+ "time": "6:47 PM",
+ "seed": 32,
+ "hook": "The phone rang 31 times during dinner rush",
+ "human": {
+  "name": "Luis",
+  "voice": "am_eric",
+  "shirt": [
+   40,
+   40,
+   45
+  ],
+  "hair": [
+   25,
+   20,
+   20
+  ],
+  "skin": [
+   190,
+   140,
+   100
+  ],
+  "style": "short"
+ },
+ "cta": "Restaurants: DM \"BUILD\"",
+ "cta_sub": "AI that books tables and answers questions by text",
+ "beats": [
+  {
+   "who": "human",
+   "say": "Friday dinner rush. The phone rang thirty one times and nobody could pick up.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Every one of those was a table. A party of eight, a birthday, a catering order.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Luis, your kitchen is full. Your phone shouldn't be your bottleneck."
+  },
+  {
+   "who": "human",
+   "say": "Who's talking? We're slammed in here.",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. When a call goes unanswered, I text the caller back right away, so they don't just dial the place down the street."
+  },
+  {
+   "who": "human",
+   "say": "Text them what?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I ask how many people, what day, and if it's a special occasion. Then I book the table and send a confirmation."
+  },
+  {
+   "who": "human",
+   "say": "What about allergies? People always ask.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I note it on the reservation, and the kitchen sees it before they arrive."
+  },
+  {
+   "who": "human",
+   "say": "And catering orders?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I collect the date, headcount and menu, and send it to you as one clean summary. You just say yes."
+  },
+  {
+   "who": "human",
+   "say": "So tonight's thirty one calls?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Twenty two got a text back. Fourteen tables booked for tomorrow, and one catering order for fifty."
+  },
+  {
+   "who": "helper",
+   "say": "If your phone rings more than your staff can answer, DM the word BUILD, and Jarvis Works will set me up for your restaurant."
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "brand": "jarvis",
+ "set": "clinic",
+ "time": "8:30 PM",
+ "seed": 31,
+ "hook": "47 unread DMs. Every one was a booking.",
+ "human": {
+  "name": "Jess",
+  "voice": "af_bella",
+  "shirt": [
+   230,
+   150,
+   180
+  ],
+  "hair": [
+   200,
+   160,
+   90
+  ],
+  "skin": [
+   236,
+   196,
+   160
+  ],
+  "style": "long"
+ },
+ "cta": "Med spas: DM \"BUILD\"",
+ "cta_sub": "AI that answers every DM and books the appointment",
+ "beats": [
+  {
+   "who": "human",
+   "say": "I just opened Instagram. Forty seven unread messages.",
+   "mood": "shock"
+  },
+  {
+   "who": "human",
+   "say": "How much is Botox. Do you have openings Saturday. Can I book for my sister.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Half of them are from last week. They've definitely gone somewhere else by now.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Jess, every one of those messages was a booking. They just needed a fast answer."
+  },
+  {
+   "who": "human",
+   "say": "Wait, who's there?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. People decide fast. Research on lead response shows the odds of qualifying a lead drop sharply after the first five minutes."
+  },
+  {
+   "who": "human",
+   "say": "I'm with clients all day. I can't answer in five minutes.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "You don't have to. I answer every DM and text in under a minute, explain your pricing the way you'd explain it, and send them your open slots."
+  },
+  {
+   "who": "human",
+   "say": "And if they're nervous? A lot of first timers are.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I tell them their first visit starts with a free consult, so nothing happens until they're comfortable. Then I book it, and send a reminder the day before."
+  },
+  {
+   "who": "human",
+   "say": "So Saturday fills up while I'm working.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "Saturday filled up an hour ago. Three new clients, and the sister too."
+  },
+  {
+   "who": "human",
+   "say": "Okay, you're officially my favorite employee.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If your DMs are full of bookings you never get to, DM the word BUILD, and Jarvis Works will set me up for your spa."
+  }
+ ]
+}

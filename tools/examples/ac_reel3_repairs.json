@@ -1,0 +1,94 @@
+{
+ "brand": "azure",
+ "set": "kitchen_leak",
+ "time": "6:40 AM",
+ "seed": 23,
+ "hook": "The inspector found 2 problems. Now no one can buy it.",
+ "human": {
+  "name": "Derek",
+  "voice": "am_liam",
+  "shirt": [
+   70,
+   120,
+   90
+  ],
+  "hair": [
+   90,
+   60,
+   30
+  ],
+  "skin": [
+   236,
+   196,
+   160
+  ],
+  "style": "short"
+ },
+ "cta": "House needs big repairs? DM \"OFFER\"",
+ "cta_sub": "Cash, as-is, close in as few as 21 days. Florida.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "The inspector says the foundation is shifting. And the roof is done.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Our buyer's bank just backed out. They won't lend on a house like this.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "And it's leaking into the kitchen while I stand here.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Morning Derek. I'm Casa. Here's the thing. We don't need a bank."
+  },
+  {
+   "who": "human",
+   "say": "What do you mean you don't need a bank?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "We buy with cash. No lender, so nobody can back out over the roof or the foundation."
+  },
+  {
+   "who": "human",
+   "say": "Then you'll just lowball me because of the repairs.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "We'll show you the whole math. Repair costs, what fixed up homes nearby sold for, and what we can pay. No surprises, no obligation."
+  },
+  {
+   "who": "human",
+   "say": "Do I have to fix anything first?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Nothing. No repairs, no showings, no inspections to pass. You hand us the keys as is."
+  },
+  {
+   "who": "helper",
+   "say": "And you're not alone. In one homeowner survey, more than a third said speed and certainty mattered more to them than getting top dollar."
+  },
+  {
+   "who": "human",
+   "say": "Honestly, certainty sounds amazing right now.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "We can close in as few as twenty one days. Or wait, if you need time to find your next place."
+  },
+  {
+   "who": "helper",
+   "say": "If your Florida house needs repairs you can't afford, DM the word OFFER, and get a cash offer on it as is."
+  }
+ ]
+}

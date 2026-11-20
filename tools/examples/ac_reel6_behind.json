@@ -1,0 +1,95 @@
+{
+ "brand": "azure",
+ "set": "kitchen_leak",
+ "time": "12:40 AM",
+ "seed": 43,
+ "hook": "The letter said 'notice of default.'",
+ "human": {
+  "name": "Mike",
+  "voice": "am_adam",
+  "shirt": [
+   130,
+   100,
+   80
+  ],
+  "hair": [
+   50,
+   35,
+   25
+  ],
+  "skin": [
+   236,
+   196,
+   160
+  ],
+  "style": "short"
+ },
+ "cta": "Behind on payments? DM \"OFFER\"",
+ "cta_sub": "Talk to us early, while you have the most options.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "I fell behind after I got hurt at work. Three payments.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Then this letter came today. Notice of default.",
+   "mood": "shock"
+  },
+  {
+   "who": "human",
+   "say": "I don't even know what my options are anymore.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Mike, I'm Casa. First, take a breath. You're not the only one this happens to."
+  },
+  {
+   "who": "human",
+   "say": "It feels like it.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "The earlier you act, the more options you usually have. Selling is one of them, and it's worth knowing what your house could bring in."
+  },
+  {
+   "who": "human",
+   "say": "Who would buy it like this? The kitchen's falling apart.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "We buy Florida houses as is, with cash. No repairs, no showings, and we can close in as few as twenty one days."
+  },
+  {
+   "who": "human",
+   "say": "And I'm not obligated to anything?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Not at all. We'll show you the numbers, and you decide. It's also smart to talk with your lender or a housing counselor about every option."
+  },
+  {
+   "who": "human",
+   "say": "Okay. Just knowing I have options helps.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "That's the goal. A clear plan, on your terms."
+  },
+  {
+   "who": "human",
+   "say": "Let's look at the numbers.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If you're behind on payments on a Florida house, DM the word OFFER early, and we'll show you a no obligation cash offer."
+  }
+ ]
+}

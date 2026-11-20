@@ -1,0 +1,31 @@
+{
+ "brand": "azure",
+ "kind": "carousel",
+ "hero": "hero_ac.png",
+ "slides": [
+  {
+   "eyebrow": "Florida homeowners",
+   "title": "Selling a house that needs big repairs? Read this first"
+  },
+  {
+   "eyebrow": "The problem",
+   "title": "Many buyers' lenders won't finance major repairs",
+   "body": "Roof at end of life, foundation issues, water damage. Deals fall apart at the inspection."
+  },
+  {
+   "eyebrow": "The alternative",
+   "title": "A cash buyer doesn't need a bank",
+   "body": "No lender means nobody backs out over the roof. You sell as-is, with no repairs and no showings."
+  },
+  {
+   "eyebrow": "No surprises",
+   "title": "You see our math",
+   "body": "Repair costs, what nearby homes sold for, and what we can pay. The offer is no obligation."
+  },
+  {
+   "title": "Get a cash offer on your house, as-is.",
+   "body": "Close in as few as 21 days, through a local title company. Florida only.",
+   "cta": "DM \"OFFER\""
+  }
+ ]
+}

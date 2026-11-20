@@ -1,0 +1,94 @@
+{
+ "brand": "jarvis",
+ "set": "garage",
+ "time": "5:58 PM",
+ "seed": 33,
+ "hook": "He sent 40 quotes this month. 6 said yes.",
+ "human": {
+  "name": "Ray",
+  "voice": "am_liam",
+  "shirt": [
+   50,
+   90,
+   150
+  ],
+  "hair": [
+   60,
+   45,
+   30
+  ],
+  "skin": [
+   226,
+   180,
+   150
+  ],
+  "style": "short"
+ },
+ "cta": "Shop owners: DM \"BUILD\"",
+ "cta_sub": "AI follow-up that turns quotes into jobs",
+ "beats": [
+  {
+   "who": "human",
+   "say": "Forty quotes sent this month. Six customers said yes.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "The rest just went quiet. I don't have time to chase every one.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Ray, quiet doesn't mean no. Most of them just never heard from you again."
+  },
+  {
+   "who": "human",
+   "say": "Who's in my shop?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. A lot of sales happen after several follow ups, but most businesses stop after one. That's where your jobs are going."
+  },
+  {
+   "who": "human",
+   "say": "So what would you do?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "The day after a quote, I text to see if they have questions. Three days later, I check in again. A week later, I offer the next open slot."
+  },
+  {
+   "who": "human",
+   "say": "Won't that annoy people?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Not if it's helpful. I answer what they're unsure about, like how long the repair takes, or if they can wait for the car."
+  },
+  {
+   "who": "human",
+   "say": "And if they say yes?",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "I book the drop off on your calendar and remind them the night before."
+  },
+  {
+   "who": "human",
+   "say": "How many of this month's quotes could you bring back?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I already followed up on all thirty four. Five booked this week, and three want to talk Monday."
+  },
+  {
+   "who": "helper",
+   "say": "If your quotes keep going quiet, DM the word BUILD, and Jarvis Works will set me up for your shop."
+  }
+ ]
+}

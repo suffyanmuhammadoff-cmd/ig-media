@@ -1,0 +1,95 @@
+{
+ "brand": "jarvis",
+ "set": "garage",
+ "time": "9:52 PM",
+ "seed": 11,
+ "hook": "Why Tony keeps losing jobs he never even knew about",
+ "human": {
+  "name": "Tony",
+  "voice": "am_adam",
+  "shirt": [
+   200,
+   70,
+   50
+  ],
+  "hair": [
+   40,
+   30,
+   25
+  ],
+  "skin": [
+   226,
+   180,
+   150
+  ],
+  "style": "short"
+ },
+ "cta": "Want a Jarvis? DM \"BUILD\"",
+ "cta_sub": "AI that texts every lead back in 60 seconds",
+ "beats": [
+  {
+   "who": "human",
+   "say": "Three missed calls today. I was up on a roof, I couldn't answer.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Called them all back after work. Two already hired somebody else.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "That's two jobs. Gone. And I never even got to quote them.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Tony. You didn't lose them because of your price. You lost them because of the clock."
+  },
+  {
+   "who": "human",
+   "say": "Who said that?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. Here's what most contractors don't know. Harvard Business Review research found that replying within five minutes makes you twenty one times more likely to qualify a lead, compared to waiting thirty."
+  },
+  {
+   "who": "human",
+   "say": "Twenty one times? I usually call back at night.",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "Which is why I text every lead within sixty seconds. I ask what's wrong with the roof, how urgent it is, and offer your open inspection slots."
+  },
+  {
+   "who": "human",
+   "say": "And if they ask how much?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I tell them the inspection is free, and you'll give a written quote on site. No guessing."
+  },
+  {
+   "who": "human",
+   "say": "What about tonight's calls?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Already handled. All three got a text. One just booked for tomorrow at ten."
+  },
+  {
+   "who": "human",
+   "say": "You booked a job while I was eating dinner?",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If you're a contractor losing jobs to missed calls, DM the word BUILD, and Jarvis Works will set me up for your business."
+  }
+ ]
+}

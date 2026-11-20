@@ -1,0 +1,31 @@
+{
+ "brand": "jarvis",
+ "kind": "carousel",
+ "hero": "hero_jw.png",
+ "slides": [
+  {
+   "eyebrow": "Speed to lead",
+   "title": "Your leads are cooling off while you read this"
+  },
+  {
+   "num": "21x",
+   "title": "more likely to qualify a lead",
+   "body": "when you reply within 5 minutes vs. 30 minutes.\nMIT and InsideSales study, published in Harvard Business Review."
+  },
+  {
+   "eyebrow": "The problem",
+   "title": "Most businesses reply in hours, not minutes",
+   "body": "You're on a job, with a patient, or asleep. The lead doesn't wait. They call the next business on Google."
+  },
+  {
+   "eyebrow": "The fix",
+   "title": "An AI that texts back in 60 seconds, 24/7",
+   "body": "It answers questions, qualifies the lead, and books the appointment on your calendar."
+  },
+  {
+   "title": "Stop losing leads to the clock.",
+   "body": "DM the word BUILD and we'll show you what we'd build for your business.",
+   "cta": "DM \"BUILD\""
+  }
+ ]
+}

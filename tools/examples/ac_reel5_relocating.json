@@ -1,0 +1,95 @@
+{
+ "brand": "azure",
+ "set": "home_office",
+ "time": "7:05 AM",
+ "seed": 42,
+ "hook": "New job starts in 30 days. The house hasn't sold.",
+ "human": {
+  "name": "Andre",
+  "voice": "am_michael",
+  "shirt": [
+   90,
+   90,
+   100
+  ],
+  "hair": [
+   20,
+   15,
+   15
+  ],
+  "skin": [
+   150,
+   105,
+   75
+  ],
+  "style": "short"
+ },
+ "cta": "Relocating? DM \"OFFER\"",
+ "cta_sub": "Close in as few as 21 days. Florida only.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "My new job starts in thirty days. In another state.",
+   "mood": "shock"
+  },
+  {
+   "who": "human",
+   "say": "If the house doesn't sell, I'm paying two housing payments at the same time.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "And the realtor says it could take months.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Andre, I'm Casa. Let's make sure you're not paying for two homes."
+  },
+  {
+   "who": "human",
+   "say": "How? It's not even listed yet.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "It doesn't need to be. We buy Florida houses directly, with cash. No listing, no showings, no waiting for a buyer's loan."
+  },
+  {
+   "who": "human",
+   "say": "Thirty days though. Is that even possible?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "We can close in as few as twenty one days, through a local title company. Or after you've moved, if that's easier."
+  },
+  {
+   "who": "human",
+   "say": "Do I need to fix anything before I go?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Nothing. Leave what you don't want to move. We buy it as is."
+  },
+  {
+   "who": "human",
+   "say": "So I could just pack and go.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "Pack what you love. Leave the rest to us."
+  },
+  {
+   "who": "human",
+   "say": "That takes a huge weight off.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "If you're relocating and need to sell a Florida house fast, DM the word OFFER, and we'll send you a cash offer."
+  }
+ ]
+}

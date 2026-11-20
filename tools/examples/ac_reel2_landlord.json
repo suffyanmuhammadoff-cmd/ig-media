@@ -1,0 +1,95 @@
+{
+ "brand": "azure",
+ "set": "rental_damage",
+ "time": "11:05 PM",
+ "seed": 22,
+ "hook": "3 months of no rent. Then she opened the door.",
+ "human": {
+  "name": "Rosa",
+  "voice": "af_sarah",
+  "shirt": [
+   200,
+   110,
+   140
+  ],
+  "hair": [
+   40,
+   25,
+   20
+  ],
+  "skin": [
+   215,
+   165,
+   130
+  ],
+  "style": "long"
+ },
+ "cta": "Tired landlord? DM \"OFFER\"",
+ "cta_sub": "We buy rentals as-is, tenants or not. Florida only.",
+ "beats": [
+  {
+   "who": "human",
+   "say": "My tenant stopped paying three months ago. Then they just left.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "Holes in the walls. The carpet is ruined. There's trash everywhere.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "And now I'm supposed to spend thousands fixing it, so I can do this all over again?",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Rosa, I'm Casa. Can I ask you something? Do you actually want to be a landlord anymore?"
+  },
+  {
+   "who": "human",
+   "say": "No. I'm exhausted. I just want out.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Then you don't have to fix a thing. We buy rentals as is. Holes, carpet, trash, all of it."
+  },
+  {
+   "who": "human",
+   "say": "You'd buy it like this? People are going to lowball me.",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "We show you exactly how we got to our number. Repair costs, what similar homes sold for. You see the math, and there's no obligation."
+  },
+  {
+   "who": "human",
+   "say": "My other unit still has a tenant in it.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "That's okay. We buy properties with tenants in place all the time."
+  },
+  {
+   "who": "human",
+   "say": "How fast could this happen?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "We can close in as few as twenty one days, through a local title company. You pick the date."
+  },
+  {
+   "who": "human",
+   "say": "No more three AM calls about a broken toilet.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "Tired landlords in Florida, DM the word OFFER, and we'll make you a cash offer on your rental, as is."
+  }
+ ]
+}

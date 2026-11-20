@@ -1,0 +1,13 @@
+{
+ "brand": "azure",
+ "kind": "story",
+ "hero": "hero_ac.png",
+ "slides": [
+  {
+   "eyebrow": "New reel",
+   "title": "He inherited a house. Then the bills started.",
+   "body": "Watch what Casa told him. On our page now.",
+   "cta": "DM \"OFFER\""
+  }
+ ]
+}

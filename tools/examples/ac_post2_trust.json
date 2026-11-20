@@ -1,0 +1,35 @@
+{
+ "brand": "azure",
+ "kind": "carousel",
+ "slides": [
+  {
+   "eyebrow": "Before you sell for cash",
+   "title": "4 ways to tell a real cash buyer from a bad one"
+  },
+  {
+   "num": "01",
+   "title": "They close through a title company",
+   "body": "Your money moves through a licensed, neutral third party. Never directly through the buyer."
+  },
+  {
+   "num": "02",
+   "title": "They show you the numbers",
+   "body": "A real buyer explains how they got to the offer: repairs, comps, and costs."
+  },
+  {
+   "num": "03",
+   "title": "No upfront fees. No obligation.",
+   "body": "You should never pay anything to get an offer, and you can always say no."
+  },
+  {
+   "num": "04",
+   "title": "Proof of funds on request",
+   "body": "Ask for it. We provide it."
+  },
+  {
+   "title": "That's how we do every deal.",
+   "body": "Cash offers on Florida houses in any condition.",
+   "cta": "DM \"OFFER\""
+  }
+ ]
+}

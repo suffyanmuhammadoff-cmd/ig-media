@@ -1,0 +1,94 @@
+{
+ "brand": "jarvis",
+ "set": "home_office",
+ "time": "10:38 PM",
+ "seed": 13,
+ "hook": "He paid for 200 leads. Spoke to 20.",
+ "human": {
+  "name": "Marcus",
+  "voice": "am_michael",
+  "shirt": [
+   60,
+   60,
+   70
+  ],
+  "hair": [
+   20,
+   15,
+   15
+  ],
+  "skin": [
+   150,
+   105,
+   75
+  ],
+  "style": "short"
+ },
+ "cta": "Agents: DM \"BUILD\"",
+ "cta_sub": "30-day AI follow-up on every lead you pay for",
+ "beats": [
+  {
+   "who": "human",
+   "say": "I spent two grand on leads this month. Talked to maybe twenty of them.",
+   "mood": "sad"
+  },
+  {
+   "who": "human",
+   "say": "The other hundred and eighty? I just never got to them.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "Marcus. You didn't buy bad leads. You bought leads, and then let them go cold."
+  },
+  {
+   "who": "human",
+   "say": "Excuse me?",
+   "mood": "shock"
+  },
+  {
+   "who": "helper",
+   "say": "I'm Jarvis. A study published in Harvard Business Review found that companies that reply within an hour are nearly seven times more likely to qualify a lead than those that wait even one more hour."
+  },
+  {
+   "who": "human",
+   "say": "I don't even get to most of them in a day.",
+   "mood": "sad"
+  },
+  {
+   "who": "helper",
+   "say": "That's the problem I fix. I text every new lead within a minute, and ask if they're buying or selling, their timeline, and their budget."
+  },
+  {
+   "who": "human",
+   "say": "Most of them never text back though.",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "Most agents quit after one or two messages. I follow up for thirty days, and every text sounds like you wrote it."
+  },
+  {
+   "who": "human",
+   "say": "And when someone's actually ready?",
+   "mood": "neutral"
+  },
+  {
+   "who": "helper",
+   "say": "I book the showing or listing call right onto your calendar. Last night I woke up eleven leads from your dead list. Two want to list this spring."
+  },
+  {
+   "who": "human",
+   "say": "From the dead list? Those were supposed to be garbage.",
+   "mood": "happy"
+  },
+  {
+   "who": "helper",
+   "say": "They weren't garbage. They were just waiting for someone to follow up."
+  },
+  {
+   "who": "helper",
+   "say": "Agents, if you're paying for leads you never follow up with, DM the word BUILD, and Jarvis Works will put me to work for you."
+  }
+ ]
+}
